@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+/* Nav */
+nav {
+  margin-bottom: 2em;
+}
+
+a {
+  text-decoration: none;
+  color: #000;
+  pointer-events: none;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+  margin-bottom: 2em;
+}
+
+.description {
+  text-align: justify;
+  margin-left: 12em;
+  margin-right: 12em;
+}
+
+.list {
+  text-align: justify;
+  margin-left: 12em;
+  margin-right: 12em;
+}
+
+/* footer */
+footer {
+  margin-top: 2em;
+}
